@@ -1,0 +1,2 @@
+libmagic==1.0
+python-magic==0.4.15
